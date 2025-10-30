@@ -17,10 +17,12 @@ Through these experiences, I developed a broader curiosity about the role of tec
 Education
 ------
 - PhD in Learning Sciences, Sydney School of Education and Social Work, The University of Sydney (2025 – present)
-  Advisors: Prof. Lina Markauskaite, •	Dr. Dewa Wardak
+
+  Supervisors: Prof. Lina Markauskaite, •	Dr. Dewa Wardak
 
 - M.Ed. in Educational Technology, South China Normal University (2021-2024)
-  Advisors: Prof.Yunxiang Zheng
+
+  Supervisor: Prof.Yunxiang Zheng
   
 - B.Ed. in Educational Technology, South China Normal University (2017-2021)
 
