@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jinping Zhong / PhD Candidate"
+title                    : "Jinping Zhong （Natalie）"
 title_separator          : "-"
 name                     : &name "Jinping Zhong"
 description              : &description "Jinping Zhong's website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,11 +26,11 @@ author:
   avatar           : "profile2.jpg"
   name             : "Jinping Zhong"
   pronouns         : "she/her"  
-  bio              : "A Learning Sciences PhD candidate, exploring creative problem solving practice in her PhD project"
+  bio              : "Current email: jzho0525@uni.sydney.edu.au"
   location         : "Sydney, Australia"
   employer         : "The University of Sydney"
   uri              : # URL
-  email            : "jzho0525@uni.sydney.edu.au" 
+  email            : # "jzho0525@uni.sydney.edu.au" 
 
   # Academic websites
   academia         : # URL
