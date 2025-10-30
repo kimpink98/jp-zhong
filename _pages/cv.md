@@ -10,55 +10,23 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+- PhD in Learning Sciences, Sydney School of Education and Social Work, The University of Sydney (2025 – present)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  _Supervisors: Prof. Lina Markauskaite and Dr. Dewa Wardak_
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- M.Ed. in Educational Technology, South China Normal University (2021-2024)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  _Supervisor: Prof.Yunxiang Zheng_
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- B.Ed. in Educational Technology, South China Normal University (2017-2021)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+AWARDS & HONORS
+------
+- **2025** University of Sydney International Scholarship
+- **2023** National Scholarship for Postgraduates, Ministry of Education, China
+- **2024** Outstanding Graduate, School of Educational Information Technology, SCNU
+- **2021–2024** First-Class Academic Scholarship _(three consecutive years)_, SCNU
+- **2021** Top 100 Outstanding Graduates, SCNU
+- **2021** Excellent Undergraduate Thesis Award, SCNU
+- **2018** Innovation Award, SCNU
