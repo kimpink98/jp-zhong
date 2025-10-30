@@ -8,7 +8,9 @@ redirect_from:
 ---
  
 ------
-I’m Natalie (Jingping), a PhD candidate in the Learning Sciences at the Sydney School of Education and Social Work, the University of Sydney. My doctoral research investigates how creative problem solving (CPS) practices emerges in collaborative settings where human and non-human agents are deeply entangled. Through a distributed cognition and sociomaterial perspective, I study how human and non-human agencies interact to shape creativity, learning, and professional practice.
+I’m Natalie (Jingping), a PhD candidate in the Learning Sciences at the Sydney School of Education and Social Work, the University of Sydney, supported by the University of Sydney International Scholarship (USydIS). 
+
+My doctoral research investigates how creative problem solving (CPS) practices emerges in technology-rich environment. Through a distributed cognition and sociomaterial perspective, I study how human and non-human agencies interact to shape creativity, learning, and professional practice.
 
 Before starting my PhD, I spent over seven years studying Educational Technology at South China Normal University, where I developed an interdisciplinary background spanning education, media, and technology. My earlier work examined digital citizenship education, beginning with the issue of cyberbullying. Over time, my curiosity shifted toward how digital citizenship could be cultivated through technology-enhanced learning, particularly through digital game-based approaches that help children navigate and thrive in an increasingly complex digital world.
 
@@ -17,10 +19,12 @@ Through these experiences, I developed a broader curiosity about the role of tec
 Education
 ------
 - PhD in Learning Sciences, Sydney School of Education and Social Work, The University of Sydney (2025 – present)
+  Advisors: Prof. Lina Markauskaite, •	Dr. Dewa Wardak
 
-- M.Ed. in Educational Technology, South China Normal University (2021)
-
-- B.Ed. in Educational Technology, South China Normal University (2017)
+- M.Ed. in Educational Technology, South China Normal University (2021-2023)
+  Advisors: Prof.Yunxiang Zheng
+  
+- B.Ed. in Educational Technology, South China Normal University (2017-2021)
 
 Research Interests
 ------
