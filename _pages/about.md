@@ -34,12 +34,12 @@ Research Interests
 
 AWARDS & HONORS
 ------
-· 2025 University of Sydney International Scholarship
-· 2023 National Scholarship for Postgraduates, Ministry of Education, China
-· 2024 Outstanding Graduate, School of Educational Information Technology, SCNU
-· 2021–2024 First-Class Academic Scholarship (three consecutive years), SCNU
-· 2021 Top 100 Outstanding Graduates, SCNU
-· 2021 Excellent Undergraduate Thesis Award, SCNU
-· 2018 Innovation Award, SCNU
+- 2025 University of Sydney International Scholarship
+- 2023 National Scholarship for Postgraduates, Ministry of Education, China
+- 2024 Outstanding Graduate, School of Educational Information Technology, SCNU
+- 2021–2024 First-Class Academic Scholarship (three consecutive years), SCNU
+- 2021 Top 100 Outstanding Graduates, SCNU
+- 2021 Excellent Undergraduate Thesis Award, SCNU
+- 2018 Innovation Award, SCNU
 
 
