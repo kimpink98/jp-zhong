@@ -8,11 +8,11 @@ redirect_from:
 ---
  
 ------
-<font size=6> I’m a PhD candidate in the **Learning Sciences** at the Sydney School of Education and Social Work, the University of Sydney. My doctoral research investigates how **Creative Problem Solving (CPS)** practices emerge in technology-rich environment. Through a distributed cognition and sociomaterial perspective, I study how human and non-human agencies interact to shape creativity, learning, and professional practice. My research has been supported by **University of Sydney International Scholarship (USydIS)**.
+I’m a PhD candidate in the **Learning Sciences** at the Sydney School of Education and Social Work, the University of Sydney. My doctoral research investigates how **Creative Problem Solving (CPS)** practices emerge in technology-rich environment. Through a distributed cognition and sociomaterial perspective, I study how human and non-human agencies interact to shape creativity, learning, and professional practice. My research has been supported by **University of Sydney International Scholarship (USydIS)**.
 
 Before starting my PhD, I spent over seven years studying **Educational Technology** at South China Normal University, where I developed an interdisciplinary background spanning education, media, and technology. My earlier work examined digital citizenship education, beginning with the issue of cyberbullying. Over time, my curiosity shifted toward how digital citizenship could be cultivated through technology-enhanced learning, particularly through digital game-based approaches that help children navigate and thrive in an increasingly complex digital world.
 
-Through these experiences, I developed a broader curiosity about the role of technology itself—not only as a tool to support learning, but as an active participant in shaping how people think, collaborate, and create. The emergence of Artificial Intelligence further deepened this inquiry, motivating me to explore how humans and non-human agents can co-create in complex, technology-rich learning and professional environments.</font>
+Through these experiences, I developed a broader curiosity about the role of technology itself—not only as a tool to support learning, but as an active participant in shaping how people think, collaborate, and create. The emergence of Artificial Intelligence further deepened this inquiry, motivating me to explore how humans and non-human agents can co-create in complex, technology-rich learning and professional environments.
 
 Education
 ------
