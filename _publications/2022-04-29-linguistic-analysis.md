@@ -7,6 +7,6 @@ excerpt: 'This study is about understanding the linguistic patterns of cyberbull
 date: 2022-04-29
 venue: 'Frontiers in Psychology'
 paperurl: 'https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.861823/full'
-citation: 'Jinping Zhong, Jing Qiu, Min Sun, Xiunan Jin, Junyi Zhang, Yidong Guo, et al. (2022). <i>Frontiers in Psychology</i>.'
+citation: '<strong>Jinping Zhong</strong>, Jing Qiu, Min Sun, Xiunan Jin, Junyi Zhang, Yidong Guo, et al. (2022). <i>Frontiers in Psychology</i>.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
