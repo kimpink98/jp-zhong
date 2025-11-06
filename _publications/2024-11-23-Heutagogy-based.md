@@ -7,7 +7,7 @@ excerpt: 'Recent research has begun to view AI as an independent collaborator an
 date: 2024-11-23
 venue: 'GitHub Journal of Bugs'
 paperurl: 'https://publications.ascilite.org/index.php/APUB/article/view/1083'
-citation: '<b>Jinping Zhong</b>, Thomas Cochrane. (2024). <i>ASCILITE 2024 Conference Proceedings</i>.'
+citation: '<strong>Jinping Zhong</strong>, Thomas Cochrane. (2024). <i>ASCILITE 2024 Conference Proceedings</i>.'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
