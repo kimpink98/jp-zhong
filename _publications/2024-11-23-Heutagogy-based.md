@@ -3,7 +3,7 @@ title: "Heutagogy-based Human-AI Co-creation Practice: A Framework for Enhancing
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Recent research has begun to view AI as an independent collaborator and has explored the use of Human-AI Co-Creation (HACC) to foster creativity. However, it remains unclear how HACC practices can be designed to truly benefit undergraduate creativity. The solution to this issue lies in the creation of autonomous learners who can maintain agency in their interactions with AI, aligning with the core idea of Heutagogy. Therefore, this position paper proposes a conceptual framework of HACC for enhancing undergraduate creativity, and explores how the principles of heutagogy can be mapped onto the design of HACC practice.'
+excerpt: 'This study is about how to design human-AI co-creation practices that genuinely enhance undergraduate creativity. As AI becomes increasingly integrated into learning and work environments, students need to develop the ability to collaborate with AI while maintaining their creative agency. Drawing on heutagogy—a learner-centered approach that emphasizes autonomy and self-determined learning—this work proposes a conceptual framework for designing AI collaboration experiences that foster rather than diminish students' creative capabilities.'
 date: 2024-11-23
 venue: 'GitHub Journal of Bugs'
 paperurl: 'https://publications.ascilite.org/index.php/APUB/article/view/1083'
