@@ -7,7 +7,7 @@ excerpt: 'Although emotions are regarded as essential in automatic cyberbullying
 date: 2025-08-08
 venue: 'Humanities and Social Sciences Communications'
 paperurl: 'https://www.nature.com/articles/s41599-025-05689-9'
-citation: 'Jinping Zhong, Yilan Mo, Junyi Zhang, Panpan Liu, Xianfei Luo, Lixiang Liu, et al., (2015).<i>Humanities and Social Sciences Communications</i>.'
+citation: 'Jinping Zhong, Yilan Mo, Junyi Zhang, Panpan Liu, Xianfei Luo, Lixiang Liu, et al., (2025).<i>Humanities and Social Sciences Communications</i>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
