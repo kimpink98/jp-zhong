@@ -1,5 +1,5 @@
 ---
-title: "'What it Means to Be a Digital Citizen': Using Concept Mapping and an Educational Game to Explore Children's Conceptualization of Digital Citizenship"
+title: "What it Means to Be a Digital Citizen: Using Concept Mapping and an Educational Game to Explore Children's Conceptualization of Digital Citizenship"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
