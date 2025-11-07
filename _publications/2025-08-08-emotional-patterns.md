@@ -1,5 +1,5 @@
 ---
-title: "Beyond anger: uncovering complex emotional patterns between cyberbullying roles through affective computing and epistemic network analysis"
+title: "Beyond Anger: Uncovering Complex Emotional Patterns between Cyberbullying Roles through Affective Computing and Epistemic Network Analysis"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
