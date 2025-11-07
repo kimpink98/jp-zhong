@@ -1,5 +1,5 @@
 ---
-title: "To be ethical and responsible digital citizens or not: A linguistic analysis of cyberbullying on social media"
+title: "To Be Ethical and Responsible Digital Citizens or Not: A Linguistic Analysis of Cyberbullying on Social Media"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
