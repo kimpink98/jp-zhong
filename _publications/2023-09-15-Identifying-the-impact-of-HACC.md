@@ -1,5 +1,5 @@
 ---
-title: "Identifying the impact of Human-AI co-creation on students' creativity development: a conceptual framework"
+title: "Identifying the Impact of Human-AI Co-creation on Students' Creativity Development: A Conceptual Framework"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
